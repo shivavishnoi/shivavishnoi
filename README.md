@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shivavishnoi
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning React JS
-- 📫 I work with Javascript, NodeJS, MongoDB, CSS and HTML.
+- 📫 I work with ReactJS, Javascript, Typescript, NodeJS, MongoDB, CSS and HTML.
 - 📫 Reach me at shivajivishnoi075@gmail.com
 
 <!---
